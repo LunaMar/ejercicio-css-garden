@@ -1,0 +1,22 @@
+body{ 
+background-color:#5dade2;
+     color:#000000;
+	 font-family: sans-serif;
+	 font-style: oblique;
+	 font-size: 16pt;
+	  margin-left :50px;
+ }
+p{
+	color:#616a6b;
+	font-family: sans-serif;
+	font-style: oblique;
+	font-size:14px
+}
+
+header {
+	background: url(css1.jpeg);
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	width: 400px;
+	height: 300px;
+}
